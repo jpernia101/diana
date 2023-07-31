@@ -1,3 +1,8 @@
+To run the server 
+-  cd into the server
+-  then python app.py
+-  **note: u need DB access **
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
